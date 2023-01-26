@@ -20,6 +20,8 @@ public class HiFour {
 		//
 		// Say hello to the names in s0 through s3.
 		//
-
+		System.out.println("Hi, " + s0 + '\n' + s1 + s2 + s3 + ". How are you?" );
+		
+		
 	}
 }
